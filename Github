@@ -1,0 +1,6 @@
+Mobile app 
+	Mobile App should allow edits of files and (at least) view projects (like the mobile site)
+	When not connected changes should be "cached" and changed when connection returns
+	
+Projects:
+	Projects should allow for a gant chart
