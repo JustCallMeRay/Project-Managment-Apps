@@ -8,3 +8,5 @@ Projects:
 	Projects should allow for a gant chart. Gant chart is a must, I will not back down. 
 	Project templates should be left blank after using them for the first time, if a tutorial is required have it in a pop-up and skippable. Current templates take longer to set up than a blank project
 	
+Other:
+	Allow me to set a default indention method and add a "notes" language so I can use autocorrect.
