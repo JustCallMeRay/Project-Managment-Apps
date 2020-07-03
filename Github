@@ -1,6 +1,10 @@
 Mobile app 
-	Mobile App should allow edits of files and (at least) view projects (like the mobile site)
-	When not connected changes should be "cached" and changed when connection returns
+	 	The mobile site is currently eaiser to use and has more features than the app.
+	When not connected changes should be "cached" and changed when connection returns, if two changes were made; handle accoringly. 
+	Should allow edits of files easily (at least) Files are easily veiwable but not (as far as I can tell) editable. 
+	View projects, (like the mobile site.)
 	
 Projects:
-	Projects should allow for a gant chart
+	Projects should allow for a gant chart. Gant chart is a must, I will not back down. 
+	Project templates should be left blank after using them for the first time, if a tutorial is required have it in a pop-up and skippable. Current templates take longer to set up than a blank project
+	
