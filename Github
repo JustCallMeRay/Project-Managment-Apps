@@ -8,7 +8,7 @@ Projects:
 	Projects should allow for a gant chart. Gant chart is a must, I will not back down. 
 	Project templates should be left blank after using them for the first time, if a tutorial is required have it in a pop-up and skippable. Current templates take longer to set up than a blank project
 	Allow for certain cards to be tagged/ labled (not a big deal as github allows unlimited boards) 
-Allow for cards to contain projects or have a "master" board with all cards from other boards.
+	Allow for cards to contain projects or have a "master" board with all cards from other boards.
 Other:
 	Allow me to set a default indention method and add a "notes" language so I can use autocorrect.
-
+	When in a repsotory and I click on my own name (in blue at the top) bring me to my repositories not my profile page. 
