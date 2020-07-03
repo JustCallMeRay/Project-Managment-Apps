@@ -11,8 +11,10 @@ Projects:
 	Allow for cards to contain projects or have a "master" board with all cards from other boards.
 
 Other:
-	Allow me to set a default indention method and add a "notes" language so I can use autocorrect (maybe even markdown) (shown .note in this file)
-		Edit: Did not know about the wiki when I wrote this but the point remains (I would "strikethrough" this if I could.)
+	Allow me to set a default indention method and
+	<strike>Add a "notes" language so I can use autocorrect (maybe even markdown) (shown .note in this file)</strike>
+		<strike>Edit: Did not know about the wiki when I wrote this but the point remains (I would "strikethrough" this if I could.)</strike>
+			Edit 2: I'm an Idiot
 	When in a repsotory and I click on my own name (in blue at the top) bring me to my repositories not my profile page. 
 	
 	
